@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "IntroSkip",
+  "name": "IntroSkip",
+  "author": "Taylor",
+  "version": "1.0.0",
+  "description": "Skip your intros or endings if you really just can't wait for the fun'",
+  "gameVersion": "1.18.0",
+  "dependsOn": {
+    "BSIPA": "^4.0.5"
+  },
+}
