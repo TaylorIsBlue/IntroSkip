@@ -1,10 +1,6 @@
 # IntroSkip
-A beat saber mod that allows you to skip Intros with ease. (Based off the previous IntroSkip Mod)
-This isn't done yet
 
+This is a discontinued project, and wasn't finished due to me being unmotivated. There is a updated version of IntroSkip which you may be able to find at the Beat Saber Modding Group on Discord:) 
 
-Made by Taylor#1837.
-
-Original Mod made by [KyleMC1413](https://github.com/Kylemc1413/Intro-Skip). I'm just continuing it to 1.18.0
-
-I'm a beginner modder, if there is anything that catches your eye that could be fixed by you make a pull request please!
+Thank u!
+(Also this source code might be broken, you can look at it but since I was a beginner that didn't know what they were doing, there are a lot of errors).
